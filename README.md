@@ -107,13 +107,13 @@ Here are some ideas to get you started:
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/shankarpoun/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/shankartce" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:mailmeshankz@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
