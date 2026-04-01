@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankartce&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  ![Stats](./profile/stats.svg)
 </p>
 
 <p align="center">
