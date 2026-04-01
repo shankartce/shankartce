@@ -87,13 +87,10 @@ Here are some ideas to get you started:
 - Mini projects for college presentations and hackathons
 
 ---
-
-## GitHub Stats
-
 ## GitHub Stats
 
 <p align="center">
-  ![Stats](./profile/stats.svg)
+  <img src="./profile/stats.svg" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -101,9 +98,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankartce&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
-
 ---
 
 ## Connect With Me
