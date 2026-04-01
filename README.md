@@ -90,8 +90,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shankartce&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shankartce&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -99,7 +101,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shankartce&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankartce&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
