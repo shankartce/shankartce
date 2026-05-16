@@ -123,6 +123,9 @@ Also working with **LangChain, Llama.cpp, agent frameworks, and Python-based aut
   <a href="mailto:mailmeshankz@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+  <a href="https://forms.gle/mpGQWvaZKWdxYCPQ8" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Me-2E87FB?style=for-the-badge&logo=google-forms&logoColor=white" alt="Contact Me" />
+  </a>
 </p>
 
 ## Fun Fact
