@@ -13,7 +13,7 @@
 
 I'm an AI engineer with a B.E. in Electrical & Electronics Engineering from Thiagarajar College of Engineering (2026), currently an AI & Software Development Intern at Kactii. I build **LLM apps, RAG systems and AI agents** that are fast, grounded and pleasant to use.
 
-🟢 **Open to full-time roles and freelance work.** [Get in touch →](https://shankar-pounraja.me/#contact)
+📫 [Get in touch →](https://shankar-pounraja.me/#contact)
 
 ### 🚀 Featured work
 
