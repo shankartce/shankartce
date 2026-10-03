@@ -1,142 +1,63 @@
-<table>
-  <tr>
-    <td width="68%" valign="top">
-      <p><strong>Premium portfolio</strong></p>
-      <h1>Shankar Pounraja</h1>
-      <h3>Tech Enthusiast | GenAI Explorer | Builder</h3>
-
-      <p>
-        I design and build practical, polished systems around generative AI, LLM applications,
-        AI agents, automation, and embedded problem solving. My work sits at the intersection of
-        software, hardware, and intelligent workflows.
-      </p>
-
-      <p>
-        <a href="https://shankar-pounraja.me/">Website</a> |
-        <a href="https://github.com/shankartce">GitHub</a> |
-        <a href="https://www.linkedin.com/in/shankarpoun/">LinkedIn</a> |
-        <a href="mailto:mailmeshankz@gmail.com">Email</a>
-      </p>
-
-      <p>
-        <a href="https://shankar-pounraja.me/">Portfolio</a> |
-        <a href="https://forms.gle/mpGQWvaZKWdxYCPQ8">Contact Me</a> |
-        <a href="https://shankartce.github.io/pynotes/">PyNotes</a> |
-        <a href="https://shankar-lab.gitbook.io/mylearning">MyLearning</a>
-      </p>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img
-        src="https://github.com/shankartce.png?size=420"
-        alt="Shankar Pounraja portrait"
-        width="260"
-      />
-      <p><strong>Shankar Pounraja</strong><br/>GenAI focused builder | Python | Embedded | Productive automation</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## About Me
-
-- Interested in **Generative AI, LLM applications, AI agents, and automation**.
-- Enjoy building projects that combine **software, hardware, and intelligence**.
-- Currently learning **LangChain, agent frameworks, Python automation, and embedded development**.
-- Open to conversations about **Python, AI tools, GitHub, embedded systems, and beginner project ideas**.
-- Contact: **mailmeshankz@gmail.com**.
-- Portfolio: **[shankar-pounraja.me](https://shankar-pounraja.me/)**.
-
-## What I'm Building
-
-- Intelligent AI-powered applications.
-- Agent-based workflows and orchestration.
-- Embedded and IoT project development.
-- Research-oriented technical projects.
-- GitHub-based learning and personal branding.
-
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" alt="Languages" />
+<p align="center">
+<a href="https://shankar-pounraja.me"><img src="profile/banner.svg" width="100%" alt="Shankar Pounraja, AI Engineer: LLM apps, RAG systems, AI agents" /></a>
 </p>
 
-### Tools and Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,fastapi,flask,sqlite,react" alt="Tools and frameworks" />
+<p align="center">
+<a href="https://shankar-pounraja.me"><img src="https://img.shields.io/badge/Portfolio-shankar--pounraja.me-8b5cf6?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shankarpoun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://shankartce.github.io"><img src="https://img.shields.io/badge/Blog-22d3ee?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+<a href="mailto:shankar310105@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### AI, Data, and Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and data tools" />
-</p>
+### Hi, I'm Shankar 👋
 
-Also working with **LangChain, Llama.cpp, agent frameworks, and Python-based automation**.
+I'm an AI engineer with a B.E. in Electrical & Electronics Engineering from Thiagarajar College of Engineering (2026), currently an AI & Software Development Intern at Kactii. I build **LLM apps, RAG systems and AI agents** that are fast, grounded and pleasant to use.
 
-## Featured Interests
+🟢 **Open to full-time roles and freelance work.** [Get in touch →](https://shankar-pounraja.me/#contact)
 
-- LLM apps and AI agents.
-- Retrieval-Augmented Generation (RAG).
-- Automation scripts and workflows.
-- Battery systems and EV-related projects.
-- Embedded systems and hardware integration.
-
-## Projects I Enjoy
-
-- AI chatbots and assistant tools.
-- Document Q&A systems.
-- Research-support tools.
-- Smart monitoring and control systems.
-- Mini projects for college presentations and hackathons.
-
----
-
-## GitHub Stats
+### 🚀 Featured work
 
 <table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=shankartce&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="GitHub trophies" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankartce&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity graph" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://streak-stats.demolab.com?user=shankartce&theme=nord&hide_border=true" alt="GitHub streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=shankartce&show_icons=true&theme=nord&hide_border=true" alt="GitHub stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankartce&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/shankartce/earshot"><img src="https://raw.githubusercontent.com/shankartce/earshot/HEAD/docs/screenshots/room.jpg" alt="Earshot room" /></a>
+<h4><a href="https://github.com/shankartce/earshot">🎧 Earshot</a></h4>
+Listen to music together, in sync, from anywhere. Everyone plays their own copy; nothing is uploaded. Listeners stay within tens of ms.<br/><br/>
+<code>TypeScript</code> <code>Preact</code> <code>Socket.IO</code><br/><br/>
+<a href="https://earshot-30yv.onrender.com"><b>Live demo ↗</b></a>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/shankartce/rag-agent">🔎 RAG Research Agent</a></h4>
+A ReAct research assistant that retrieves before it answers and cites every claim inline, with Answer · Sources · Confidence output.<br/><br/>
+<code>Python</code> <code>AgentScope</code> <code>Vector DB</code>
+<br/><br/>
+<h4><a href="https://github.com/shankartce/voiceflow">🎙️ Murmur</a> <sub>building now</sub></h4>
+Private voice typing for Windows. Hold a key, speak, and clean text appears anywhere. Speech-to-text and AI cleanup run fully on-device.<br/><br/>
+<code>Rust</code> <code>Tauri</code> <code>whisper.cpp</code> <code>llama.cpp</code>
+</td>
+</tr>
 </table>
 
----
-
-## Connect With Me
+### 🛠️ Tech
 
 <p>
-  <a href="https://www.linkedin.com/in/shankarpoun/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/shankartce" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="mailto:mailmeshankz@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://forms.gle/mpGQWvaZKWdxYCPQ8" target="_blank">
-    <img src="https://img.shields.io/badge/Contact%20Me-2E87FB?style=for-the-badge&logo=google-forms&logoColor=white" alt="Contact Me" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,rust,tauri,azure,linux,git,vscode" alt="Python, TypeScript, JavaScript, React, Node.js, FastAPI, Rust, Tauri, Azure, Linux, Git, VS Code" />
 </p>
 
-## Fun Fact
+Plus **LangChain, AgentScope, Azure AI Foundry, llama.cpp** and **whisper.cpp**.
 
-I like turning ideas into practical projects, especially when AI and engineering work together.
+### ✍️ Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Multilingual AI Apps with Azure Translator and Azure Speech](https://shankartce.github.io/building-multilingual-ai-apps-with-azure-translator-and-azure-apeech.html)
+- [Develop an Azure Speech Voice Live Agent in Microsoft Foundry](https://shankartce.github.io/develop-azure-speech-voice-live-agent.html)
+- [Develop a Speech Agent with the Azure Speech MCP Server](https://shankartce.github.io/develop-speech-agent-with-azure-speech-mcp-server.html)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [All posts](https://shankartce.github.io) · [PyNotes](https://shankartce.github.io/pynotes/)
+
+<details>
+<summary><b>📊 Languages I code in</b></summary>
+<br/>
+<img src="profile/top-langs.svg" alt="Top languages" />
+</details>

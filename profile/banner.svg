@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Shankar Pounraja, AI Engineer">
+  <defs>
+    <radialGradient id="v"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".75"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="c"><stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <radialGradient id="p"><stop offset="0" stop-color="#f472b6" stop-opacity=".45"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <clipPath id="r"><rect width="1200" height="320" rx="24"/></clipPath>
+    <style>
+      .b { animation: drift 16s ease-in-out infinite alternate; }
+      .b2 { animation-delay: -6s; } .b3 { animation-delay: -11s; }
+      @keyframes drift { to { transform: translate(60px, 30px); } }
+      @media (prefers-reduced-motion: reduce) { .b { animation: none; } }
+      text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="320" fill="#07070d"/>
+    <circle class="b" cx="180" cy="40" r="360" fill="url(#v)"/>
+    <circle class="b b2" cx="1080" cy="120" r="340" fill="url(#c)"/>
+    <circle class="b b3" cx="640" cy="380" r="300" fill="url(#p)"/>
+    <rect x=".5" y=".5" width="1199" height="319" rx="24" fill="none" stroke="#fff" stroke-opacity=".1"/>
+  </g>
+  <text x="600" y="150" text-anchor="middle" font-size="76" font-weight="700" fill="#ecebf5" letter-spacing="-2">Shankar Pounraja</text>
+  <text x="600" y="205" text-anchor="middle" font-size="28" font-weight="600" fill="url(#g)">AI Engineer</text>
+  <text x="600" y="246" text-anchor="middle" font-size="20" fill="#a3a1b8">LLM apps · RAG systems · AI agents</text>
+</svg>
